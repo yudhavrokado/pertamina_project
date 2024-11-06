@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.4">
   <diagram name="Page-1" id="-LmojOWGNkKKqqaB92nb">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5nid8w8JRTCoBwWGpoJ-1" target="g5nid8w8JRTCoBwWGpoJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-7" value="no_penyalur" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g5nid8w8JRTCoBwWGpoJ-6">
+          <mxGeometry x="-0.097" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-1" value="API MASTER SPBU MVP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5nid8w8JRTCoBwWGpoJ-5" target="g5nid8w8JRTCoBwWGpoJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-5" value="API SPBU PROFILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5nid8w8JRTCoBwWGpoJ-12" target="g5nid8w8JRTCoBwWGpoJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-16" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g5nid8w8JRTCoBwWGpoJ-15">
+          <mxGeometry x="-0.1492" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g5nid8w8JRTCoBwWGpoJ-12" target="g5nid8w8JRTCoBwWGpoJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-19" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="g5nid8w8JRTCoBwWGpoJ-18">
+          <mxGeometry x="-0.1886" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-12" value="Dapat SPBU Profile?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="135" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-14" value="Simpan Table" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5nid8w8JRTCoBwWGpoJ-17" value="Query insert dari tabel SPBU MVP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
